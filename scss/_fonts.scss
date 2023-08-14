@@ -1,0 +1,61 @@
+@use "mixins" as *;
+
+.head {
+  li {
+    @include text(500, 20, 27, #7e7f86);
+  }
+}
+
+.section1 {
+  p {
+    @include text(500, 20, 27, #25202f);
+  }
+  h1 {
+    @include text(700, 60, 72, #25202f);
+  }
+}
+
+.h5 {
+  @include text(400, 18, 24, #8643dc);
+}
+
+.h2 {
+  @include text(700, 36, 48, #25202f);
+}
+
+.section2 {
+  .card__title,
+  p {
+    @include text(400, 16, 32, #47444e);
+  }
+}
+
+.section3 {
+  a {
+    @include text(500, 24, 32, #25202f);
+  }
+}
+
+.section4 {
+  h4 {
+    @include text(500, 18, 24, #25202f);
+  }
+}
+
+.section5 {
+  p {
+    @include text(500, 16, 32, #47444e);
+  }
+}
+
+.section7 {
+  a {
+    @include text(400, 24, 28, #8643dc);
+  }
+}
+
+.footer {
+  h2 {
+    @include text(500, 36, 48, #25202f);
+  }
+}

@@ -1,0 +1,99 @@
+.head li {
+  font-family: "Red Hat Display", sans-serif;
+  color: #7e7f86;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 27px;
+}
+
+.section1 p {
+  font-family: "Red Hat Display", sans-serif;
+  color: #25202f;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 27px;
+}
+.section1 h1 {
+  font-family: "Red Hat Display", sans-serif;
+  color: #25202f;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 72px;
+}
+
+.h5 {
+  font-family: "Red Hat Display", sans-serif;
+  color: #8643dc;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.h2 {
+  font-family: "Red Hat Display", sans-serif;
+  color: #25202f;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+.section2 .card__title,
+.section2 p {
+  font-family: "Red Hat Display", sans-serif;
+  color: #47444e;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.section3 a {
+  font-family: "Red Hat Display", sans-serif;
+  color: #25202f;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.section4 h4 {
+  font-family: "Red Hat Display", sans-serif;
+  color: #25202f;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.section5 p {
+  font-family: "Red Hat Display", sans-serif;
+  color: #47444e;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.section7 a {
+  font-family: "Red Hat Display", sans-serif;
+  color: #8643dc;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.footer h2 {
+  font-family: "Red Hat Display", sans-serif;
+  color: #25202f;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+.wrapper {
+  max-width: 1110px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+button {
+  color: #fff;
+  background-color: #8643dc;
+}

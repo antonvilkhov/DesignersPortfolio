@@ -1,0 +1,7 @@
+@mixin text($weight, $size, $line, $color) {
+  font-family: "Red Hat Display", sans-serif;
+  color: $color;
+  font-weight: $weight;
+  font-size: #{$size}px;
+  line-height: #{$line}px;
+}
